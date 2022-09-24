@@ -15,5 +15,9 @@
 
 .styling{
     color: blue;
-    font-size: 16px;
+    font-size: 18px;
+}
+.stylingReply{
+    color: rgb(20, 18, 19);
+    font-size: 22px;
 }
